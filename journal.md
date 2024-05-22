@@ -1,3 +1,4 @@
+
 # This is my super cool article
 Written by me
 
@@ -13,3 +14,7 @@ Markello, R (2019)
 ## Results
 
 really really cool results
+
+## Figures 
+
+waw !
