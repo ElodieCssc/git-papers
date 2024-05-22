@@ -1,7 +1,7 @@
 
 # This is my super cool article
 Written by me
-
+And all my friends
 ## Introduction
 
 This is a very important problem ...
