@@ -18,3 +18,7 @@ really really cool results
 ## Figures 
 
 waw !
+
+## Conclusion
+
+I've concluded ...
