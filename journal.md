@@ -1,5 +1,5 @@
 # This is my super cool article
-Written by me
+Written by me and John !
 
 ## Introduction
 
