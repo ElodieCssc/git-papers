@@ -1,7 +1,9 @@
 
 # This is my super cool article
 Written by me
+
 And all my friends
+My affilation ...
 
 ## Introduction
 
